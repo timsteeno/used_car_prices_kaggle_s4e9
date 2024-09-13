@@ -1,0 +1,22 @@
+[project]
+name = "used-car-prices-kaggle-s4e9"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "autogluon-tabular>=1.1.1",
+    "bokeh>=3.5.2",
+    "catboost>=1.2.7",
+    "fastai>=2.7.17",
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.5",
+    "kaggle>=1.6.17",
+    "lightgbm>=4.5.0",
+    "nbformat>=5.10.4",
+    "plotly>=5.24.0",
+    "ray>=2.35.0",
+    "skrub>=0.3.0",
+    "torch>=2.4.1",
+    "xgboost>=2.1.1",
+]
